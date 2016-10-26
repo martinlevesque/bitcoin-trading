@@ -1,0 +1,9 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  money_burst_id: 1
+  data: MyText
+
+two:
+  money_burst_id: 1
+  data: MyText

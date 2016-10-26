@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  money_burst_id: 1
+  trans_type: MyString
+  amount: 1.5
+  price: 1.5
+
+two:
+  money_burst_id: 1
+  trans_type: MyString
+  amount: 1.5
+  price: 1.5
